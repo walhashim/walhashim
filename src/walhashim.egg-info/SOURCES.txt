@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+src/walhashim/__init__.py
+src/walhashim/walhashim.py
+src/walhashim.egg-info/PKG-INFO
+src/walhashim.egg-info/SOURCES.txt
+src/walhashim.egg-info/dependency_links.txt
+src/walhashim.egg-info/top_level.txt
